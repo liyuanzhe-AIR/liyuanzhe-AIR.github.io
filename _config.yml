@@ -12,7 +12,7 @@ title                    : "Li Yuanzhe"
 title_separator          : "-"
 name                     : &name "Li Yuanzhe"
 description              : &description "personal description"
-url                      : https://lyz-air.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liyuanzhe-AIR.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lyz-air/lyz-air.github.io"
 
