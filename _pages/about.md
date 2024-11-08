@@ -39,7 +39,7 @@ Service Computing
 - [CollaborateCom'22] Collaborative Mobile Edge Computing Through UPF Selection    
   Collaborative Computing: Networking, Applications and Worksharing    
   **Li Yuanzhe**, Zhou Ao, Ma Xiao, Wang Shangguang.    
-  *Awarded Best Paper!*
+  *<font color=blue> Awarded Best Paper!</font>*
 
 - [IOTJ'22] Profit-Aware Edge Server Placement    
   IEEE Internet of Things Journal, 2022    
