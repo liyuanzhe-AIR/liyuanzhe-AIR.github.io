@@ -28,7 +28,7 @@ Service Computing
 
 # Publications
 
-- [TMC'23] Seamless Cross-Edge Service Migration for Real-Time Rendering Applications. 
+- [TMC'23] Seamless Cross-Edge Service Migration for Real-Time Rendering Applications
   IEEE Transactions on Mobile Computing, 2023
   **Li Yuanzhe**, Wang Shangguang, Li Yuanchun, Zhou Ao, Xu Mengwei, Ma Xiao, Liu Yunxin. 
 
@@ -36,12 +36,12 @@ Service Computing
   Transactions on Industrial Informatics, 2021
   **Li Yuanzhe**, Huang Jie, Sun Qibo, Sun Tao, Wang Shangguang.
 
-- [CollaborateCom'22] Collaborative Mobile Edge Computing Through UPF Selection.
+- [CollaborateCom'22] Collaborative Mobile Edge Computing Through UPF Selection
   Collaborative Computing: Networking, Applications and Worksharing
   **Li Yuanzhe**, Zhou Ao, Ma Xiao, Wang Shangguang.
   *Awarded Best Paper!*
 
-- [IOTJ'22] Profit-Aware Edge Server Placement.
+- [IOTJ'22] Profit-Aware Edge Server Placement
   IEEE Internet of Things Journal, 2022
    **Li Yuanzhe**, Zhou Ao, Ma Xiao, Wang Shangguang.
 
@@ -57,26 +57,26 @@ Service Computing
   IEEE International Conference on Edge Computing, 2018
   **Li Yuanzhe**, Wang Shangguang. 
 
-- [MobiCom'24] FlexNN: Efficient and Adaptive DNN Inference on  Memory-Constrained Edge Device.
+- [MobiCom'24] FlexNN: Efficient and Adaptive DNN Inference on  Memory-Constrained Edge Device
   Annual International Conference on Mobile Computing and Networking, 2024
   Li Xiangyu, Li Yuanchun, **Li Yuanzhe**, Cao Ting, Liu Yunxin.
 
-- [SANNER'23] Environment-aware Testing for DNN-based Smart-home WiFi Sensing Systems.
+- [SANNER'23] Environment-aware Testing for DNN-based Smart-home WiFi Sensing Systems
   IEEE International Conference on Software Analysis, Evolution and Reengineering, 2023
   Zheng Naiyu, Chen Ting, Dong Chuchu, Yang Yubo, **Li Yuanzhe**, Liu Yunxin, Li Yuanchun.
 
-- [IEEE Network' 24] Service Coordination in the Space-Air-Ground Integrated Network.
+- [IEEE Network'24] Service Coordination in the Space-Air-Ground Integrated Network
   Guo Yan, Li Qing, **Li Yuanzhe**, Zhang Ning, Wang Shangguang. 
 
-- [ICPP' 24] TESLA: Thermally Safe, Load-Aware, and Energy-Efficient Cooling Control System for Data Centers.
+- [ICPP'24] TESLA: Thermally Safe, Load-Aware, and Energy-Efficient Cooling Control System for Data Centers.
   International Conference on Parallel Processing, 2024
   Geng Hanfei, Sun Yi, **Li Yuanzhe**, Leng Jichao, Zhu Xiangyu, Zhan Xianyuan, Li Yuanchun, Zhao Feng, Liu Yunxin.
 
-- [ICWS' 24] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing.
+- [ICWS'24] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing
   IEEE International Conference on Web Services, 2024
   Yang Lipei, Zhou Ao, Ma Xiao, Zhang Yiran, **Li Yuanzhe**, Wang Shangguang.
 
-- [TMC' 24] ADAWIFI, Collaborative WiFi Sensing for Cross-Environment Adaptation
+- [TMC'24] ADAWIFI, Collaborative WiFi Sensing for Cross-Environment Adaptation
   IEEE Transactions on Mobile Computing, 2024
   Zheng Naiyu, Li Yuanchun, Jiang Shiqi, **Li Yuanzhe**, Yao Rongchun, Dong Chuchu, Chen Ting, Yang Yubo, Yin Zhimeng, Liu Yunxin, .
 
