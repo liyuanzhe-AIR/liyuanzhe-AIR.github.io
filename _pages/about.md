@@ -28,11 +28,11 @@ Service Computing
 
 # Publications
 
-- [TMC'23] Seamless Cross-Edge Service Migration for Real-Time Rendering Applications
+- [TMC'23] Seamless Cross-Edge Service Migration for Real-Time Rendering Applications    
   IEEE Transactions on Mobile Computing, 2023
   **Li Yuanzhe**, Wang Shangguang, Li Yuanchun, Zhou Ao, Xu Mengwei, Ma Xiao, Liu Yunxin. 
 
-- [TII'21] Cognitive Service Architecture for 6G Core Network
+- [TII'21] Cognitive Service Architecture for 6G Core Network    
   Transactions on Industrial Informatics, 2021
   **Li Yuanzhe**, Huang Jie, Sun Qibo, Sun Tao, Wang Shangguang.
 
