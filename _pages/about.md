@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-I’m a postdoctoral researcher at Institute for AI Research, Tsinghua University (Supervisors: [Prof. Yunxin Liu](https://yunxinliu.github.io/)). Before that, I received my Ph.D. from Beijing University of Posts and Telecommunications (BUPT) in June 2022 (Supervisors: [Prof. Shangguang Wang](https://sguangwang.com)). I received my B.S. in communication engineering from BUPT in 2016.
+I’m a postdoctoral researcher at [Institute for AI Research (AIR)](https://air.tsinghua.edu.cn/), Tsinghua University (Supervisors: [Prof. Yunxin Liu](https://yunxinliu.github.io/)). Before that, I received my Ph.D. from Beijing University of Posts and Telecommunications (BUPT) in June 2022 (Supervisors: [Prof. Shangguang Wang](https://sguangwang.com)). I received my B.S. in communication engineering from BUPT in 2016.
 
 
 
